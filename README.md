@@ -27,3 +27,7 @@ A full-stack eco-friendly habit tracking application built with MERN stack.
 cd server
 npm install
 npm run dev
+### Client
+```bash
+cd client
+npm start
