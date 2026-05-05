@@ -22,7 +22,7 @@ A full-stack eco-friendly habit tracking application built with MERN stack.
 4. Impact Dashboard - Visualize environmental impact
 
 ## How to Run
-### Server
+### Terminal 1- server and Terminal 2- Client
 ```bash
 cd server
 npm install
